@@ -1,0 +1,45 @@
+#title{
+    margin-top: 0;
+    height: 100px;
+    width: 100%;
+    background: rgba(255, 0, 255, 0.5);
+}
+#title > ul{
+    list-style: none;
+    margin-top: 0;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#title > ul > li{
+    padding-top: 10px;
+    float: left;
+    width: fit-content;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#title > h1, #title > ul{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 0;
+    float: left;
+}
+#title > a, #title > h3{
+    padding-top: 1%;
+    float: left;
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+}
+p, h1, a, h3, ul{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+html {
+    background: url('https://www.aus.edu/sites/default/files/iStock-508139163.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
