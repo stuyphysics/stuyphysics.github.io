@@ -38,8 +38,6 @@ p, h1, a, h3, ul, h2{
 }
 html {
     background: url('https://www.w3schools.com/w3images/forestbridge.jpg') no-repeat center center fixed;
-    
-    background-image: url('/w3images/forestbridge.jpg');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
