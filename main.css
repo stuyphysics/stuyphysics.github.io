@@ -43,3 +43,12 @@ html {
     -o-background-size: cover;
     background-size: cover;
 }
+
+.speaker {
+  text-align: center;
+}
+
+#name_s {
+  font-size: 30px;
+  color: #DCDCDC;
+}
